@@ -7,10 +7,15 @@ The project demonstrates the use of classes, file handling, and modular programm
 # How it works
 
 toDoListMain.cpp – Handles user input and calls functions from taskManager.cpp.
+
 taskManager.cpp – Manages task operations (add, delete, mark complete, etc.).
+
 taskManager.h – Declares the functions used in taskManager.cpp.
+
 fileHandler.cpp – Reads and writes tasks to tasks.txt.
+
 fileHandler.h – Defines the functions used in fileHandler.cpp.
+
 tasks.txt – Stores the tasks for persistence.
 
 # How to Compile & Run
